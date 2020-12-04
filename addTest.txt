@@ -5,5 +5,5 @@
 
 0001branch에서 내용작성함.
 
-print( "hello world" )
+print( "hello world" ) ++minmin
 
